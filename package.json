@@ -1,0 +1,18 @@
+{
+  "name": "breakout-game",
+  "version": "1.0.0",
+  "description": "A classic Breakout game implemented in JavaScript using Vite.",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT"
+}
